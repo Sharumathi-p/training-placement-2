@@ -14,7 +14,7 @@ Hello, students! 🙌 This is a step-by-step guide to get you started with our w
 2. *Use the Template Repository* 🌟:
 
    - Clone the provided template repository to maintain consistency.
-   - Repository link: [*Template Repository*](#)
+   - Repository link: [*Template Repository*](https://github.com/sreena13/github-template)
    - You *must* use this template for all your submissions.
 
 ---

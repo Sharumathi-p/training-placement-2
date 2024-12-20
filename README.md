@@ -36,10 +36,10 @@ Hello, students! 🙌 This is a step-by-step guide to get you started with our w
 2. *Extensions* 💻:
 
    - Use extensions that match the language of the code:
-     - .py for Python
-     - .java for Java
-     - .cpp for C++
-     - .js for JavaScript
+     - `.py` for Python
+     - `.java` for Java
+     - `.cpp` for C++
+     - `.js` for JavaScript
    - **Do not save files with ********************************************************************************************.txt******************************************************************************************** or other random extensions.**
 
 ---

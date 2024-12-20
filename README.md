@@ -22,7 +22,7 @@ Hello, students! 🙌 This is a step-by-step guide to get you started with our w
 ## 📅 *Date-wise Submission Schedule*
 
 - The template includes predefined dates. 📆 Adhere to these dates when uploading your code.
-- *Example:* If the date in the template is 21.12.2024, ensure that all code corresponding to that day is submitted on or before this date.
+- *Example:* If the date in the template is `21.12.2024`, ensure that all code corresponding to that day is submitted on or before this date.
 
 ---
 

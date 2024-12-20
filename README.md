@@ -8,7 +8,7 @@ Hello, students! 🙌 This is a step-by-step guide to get you started with our w
 
 1. *Repository Name* 🎯:
 
-   - Every student must name their repository \\*training-placement-1\\*
+   - Every student must name their repository `training-placement-1`
    - This naming convention is *mandatory*. Repositories with other names will not be tracked.
 
 2. *Use the Template Repository* 🌟:

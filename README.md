@@ -1,6 +1,6 @@
 # 🚀 *Instructions*
 
-Hello, students! 🙌 This is a step-by-step guide to get you started with our web application for tracking your coding progress. Follow these instructions *strictly* to ensure smooth operation and compliance. 👍
+Hello, students! 🙌 This is a step-by-step guide to get you started with file uploading for placement training. Follow these instructions *strictly* to ensure smooth operation and compliance. 👍
 
 ---
 

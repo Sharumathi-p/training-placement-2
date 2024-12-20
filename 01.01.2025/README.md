@@ -11,3 +11,5 @@
   - Place files in folders named by the corresponding date (e.g., `21.12.2024`).  
 
 Happy Coding! 🚀  
+
+*Note: You can edit or remove this README if necessary.*
